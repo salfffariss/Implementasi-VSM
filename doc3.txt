@@ -1,0 +1,1 @@
+Machine learning is a method of data analysis that automates analytical model building. It is based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning algorithms include decision trees, neural networks, support vector machines, and clustering methods.

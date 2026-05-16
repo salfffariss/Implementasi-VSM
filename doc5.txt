@@ -1,0 +1,1 @@
+A database management system is software that enables users to define, create, maintain and control access to the database. A relational database organizes data into tables with rows and columns. SQL is the standard language for relational database management systems. Indexing in databases improves the speed of data retrieval operations.

@@ -1,0 +1,6 @@
+5
+doc2.txt 0.4101
+doc1.txt 0.1243
+doc3.txt 0.0669
+doc5.txt 0.0156
+doc4.txt 0.0144

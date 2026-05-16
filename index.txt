@@ -1,0 +1,106 @@
+access: 5,0.699
+activ: 1,0.699
+algebra: 2,0.699
+algorithm: 3,0.699
+analysi: 3,0.3979 4,0.3979
+analyt: 3,0.699
+answer: 4,0.699
+artifici: 4,0.699
+assign: 2,0.699
+autom: 3,0.699
+base: 1,0.2886 3,0.2218 4,0.2218
+build: 3,0.699
+classif: 4,0.699
+cluster: 3,0.699
+collect: 1,0.699
+column: 5,0.699
+combin: 4,0.699
+commonli: 2,0.699
+comput: 4,0.9094
+concern: 4,0.699
+content: 1,0.699
+control: 5,0.699
+correspond: 2,0.699
+creat: 5,0.699
+data: 1,0.2218 3,0.2886 5,0.2886
+databas: 1,0.3979 5,0.6761
+decis: 3,0.9094
+deep: 4,0.699
+defin: 5,0.699
+describ: 1,0.699
+dimens: 2,0.699
+dimension: 2,0.699
+document: 1,0.5177 2,0.5177
+enabl: 5,0.699
+entiti: 4,0.699
+filter: 2,0.699
+full: 1,0.699
+high: 2,0.699
+human: 3,0.3979 4,0.3979
+idea: 3,0.699
+identifi: 2,0.3979 3,0.3979
+idf: 2,0.699
+imag: 1,0.699
+improv: 5,0.699
+includ: 3,0.699
+index: 1,0.2218 2,0.2218 5,0.2218
+inform: 1,0.7076 2,0.5177
+intellig: 4,0.699
+interact: 4,0.699
+intervent: 3,0.699
+involv: 4,0.699
+languag: 4,0.5177 5,0.3979
+learn: 3,0.5878 4,0.5177
+linguist: 4,0.699
+machin: 3,0.5878 4,0.5177
+maintain: 5,0.699
+make: 3,0.699
+manag: 5,0.9094
+metadata: 1,0.699
+method: 3,0.9094
+minim: 3,0.699
+model: 2,0.3554 3,0.2218 4,0.2218
+name: 4,0.699
+natur: 4,0.699
+network: 3,0.699
+neural: 3,0.699
+nlp: 4,0.699
+obtain: 1,0.699
+oper: 5,0.699
+organ: 5,0.699
+pattern: 3,0.699
+process: 4,0.699
+question: 4,0.699
+rank: 2,0.699
+recognit: 4,0.699
+relat: 5,0.9094
+relev: 1,0.3979 2,0.3979
+repres: 2,0.9094
+resourc: 1,0.9094
+retriev: 1,0.2886 2,0.2218 5,0.2218
+row: 5,0.699
+rule: 4,0.699
+scienc: 1,0.3979 4,0.3979
+search: 1,1.1198
+sentiment: 4,0.699
+softwar: 5,0.699
+sound: 1,0.699
+space: 2,1.0325
+speed: 5,0.699
+sql: 5,0.699
+standard: 5,0.699
+subfield: 4,0.699
+support: 3,0.699
+system: 3,0.3979 5,0.5177
+tabl: 5,0.699
+task: 4,0.699
+term: 2,0.9094
+text: 1,0.2886 2,0.2218 4,0.2218
+tf: 2,0.699
+themselv: 1,0.699
+translat: 4,0.699
+tree: 3,0.699
+use: 2,0.9094
+user: 5,0.699
+vector: 2,0.6375 3,0.3979
+weight: 2,0.9094
